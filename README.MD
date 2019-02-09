@@ -24,6 +24,9 @@ ADIT1
 
 Please replace with own if wants to test with deployment in Rinkeby
 
+# Contract address on Rinkeby
+
+	0x7a7c91255258BeF609474ddB7bc5baaBe9562e1B
 
 
 
